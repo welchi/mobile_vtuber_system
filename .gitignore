@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+iOSBuild/
+.idea/
+DlibFaceLandmarkDetector/
+Live2D/
+OpenCVForUnity/
+hiyori_free_jp/
+StreamingAssets/
